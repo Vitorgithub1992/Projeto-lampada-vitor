@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+button {
+    height: 40px;
+    width: 90px;
+    border-radius: 6px;
+}
+
+button:hover {
+    background-color: gold;
+}
